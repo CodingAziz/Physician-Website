@@ -80,10 +80,26 @@ MIT License
 
 For technical inquiries, bug reports, or feature requests, please utilize the issue tracker within this GitHub repository.
 
-## 📸 Live Demo
+## 📸 Screenshots / Live Demo
 
-[Link to live demo URL] (`https://physician-website.vercel.app/`)
-*(Optional: Include screenshots of the application here to provide a visual overview.)*
+Here are some screenshots of the application:
+
+### Desktop View
+
+<p align="center">
+  <img src="docs/images/desktop-hero.png" alt="Desktop view of the physician website hero section" width="800" />
+</p>
+
+### Mobile Header
+
+<p align="center">
+  <img src="docs/images/mobile-header.png" alt="Mobile view of the physician website header with open menu" width="400" />
+</p>
+
+---
+
+[Visit the Live Demo Here!](https://physician-website.vercel.app/)
+
 
 ---
 
