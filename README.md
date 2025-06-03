@@ -82,7 +82,7 @@ For technical inquiries, bug reports, or feature requests, please utilize the is
 
 ## 📸 Live Demo
 
-[Link to live demo URL - `https://physician-website.vercel.app/`]
+[Link to live demo URL] (`https://physician-website.vercel.app/`)
 *(Optional: Include screenshots of the application here to provide a visual overview.)*
 
 ---
