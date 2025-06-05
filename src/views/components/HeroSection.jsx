@@ -4,7 +4,7 @@ import Button from './Button';
 import { CalendarIcon } from '../../assets/icons';
 
 const HeroSection = () => (
-  <section id="home" className="relative text-white py-24 md:py-36 flex items-center justify-center rounded-b-xl overflow-hidden min-h-[500px]"> {/* Added min-h for visibility */}
+  <section id="home" className="relative text-black py-24 md:py-36 flex items-center justify-center rounded-b-xl overflow-hidden min-h-[500px]"> {/* Added min-h for visibility */}
     {/* Parallax Background Div */}
     {/* `absolute inset-0` ensures it covers the entire parent section.
         `bg-cover` scales the image to cover the entire container.
