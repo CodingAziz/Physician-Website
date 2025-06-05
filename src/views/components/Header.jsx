@@ -40,8 +40,8 @@ const Header = () => {
           ${isMobileMenuOpen ? 'flex' : 'hidden md:flex'}`} // Design: Show/hide based on mobile menu state
       >
         <NavigationLink href="#home" onClick={handleNavLinkClick}>Home</NavigationLink>
-        <NavigationLink href="#services" onClick={handleNavLinkClick}>Services</NavigationLink>
         <NavigationLink href="#about" onClick={handleNavLinkClick}>About Us</NavigationLink>
+        <NavigationLink href="#services" onClick={handleNavLinkClick}>Services</NavigationLink>
         <NavigationLink href="#contact" onClick={handleNavLinkClick}>Contact Us</NavigationLink>
         <Button className="mt-3 md:mt-0" onClick={handleNavLinkClick}>
           <CalendarIcon className="inline-block mr-2" size={20} /> Book Appointment
