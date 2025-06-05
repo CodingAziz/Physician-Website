@@ -87,13 +87,13 @@ Here are some screenshots of the application:
 ### Desktop View
 
 <p align="center">
-  <img src="docs/images/desktop-hero.png" alt="Desktop view of the physician website hero section" width="800" />
+  <img src="docs/images/desktop-hero-banner.png" alt="Desktop view of the physician website hero section" width="800" />
 </p>
 
 ### Mobile Header
 
 <p align="center">
-  <img src="docs/images/mobile-header.png" alt="Mobile view of the physician website header with open menu" width="400" />
+  <img src="docs/images/mobile-hero-banner.png" alt="Mobile view of the physician website header with open menu" width="400" />
 </p>
 
 ---
